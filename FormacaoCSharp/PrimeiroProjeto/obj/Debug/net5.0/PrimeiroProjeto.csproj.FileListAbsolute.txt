@@ -1,0 +1,16 @@
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.exe
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.deps.json
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.dll
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\ref\PrimeiroProjeto.dll
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.pdb
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.dll
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\ref\PrimeiroProjeto.dll
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.pdb
+C:\Users\mateu\Documents\Projetos\Study\FormacaoCSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.genruntimeconfig.cache
